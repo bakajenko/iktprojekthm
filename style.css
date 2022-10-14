@@ -1,0 +1,11 @@
+body{
+    color: black;
+    background-color: darkkhaki;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    display: block;
+}
+.row{
+    color: black;
+    background-color: aqua;
+}
